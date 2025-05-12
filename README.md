@@ -1,10 +1,8 @@
-# **Text mining: STOCK SENTIMENT ANALYSIS**
+# **Text mining: SENTIMENT ANALYSIS**
 
-This repository contains the implementation of a Stock Sentiment Analysis project, where we predict market sentiment (Bearish, Bullish, or Neutral) from tweets using NLP techniques.
+This repository contains the implementation of a Sentiment Analysis project, where we predict market sentiment (Bearish, Bullish, or Neutral) from tweets using NLP techniques.
 
 ---
-
-# **Text mining: STOCK SENTIMENT ANALYSIS**
 
 ## 🎓 Master’s Program in Data Science & Advanced Analytics  
 **Nova IMS** | March 2025  
