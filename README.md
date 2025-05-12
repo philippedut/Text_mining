@@ -10,8 +10,7 @@ This repository contains the implementation of a Sentiment Analysis project, whe
 
 ## 👥 Team **Group 34**  
 - **[Philippe Dutranoit]** | [20240518]  
-- **[Name 2]** | [Student #2]  
-- **[Name 3]** | [Student #3]  
-- **[Name 4]** | [Student #4]  
-- **[Name 5]** | [Student #5]  
+- **[Diogo Duarte]** | [20240525]  
+- **[Rui luz]** | [20211628]  
+- **[Rodrigo Sardinha]** | [20211627]  
 
