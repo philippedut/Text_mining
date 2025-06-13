@@ -14,3 +14,8 @@ This repository contains the implementation of a Sentiment Analysis project, whe
 - **[Rui luz]** | [20211628]  
 - **[Rodrigo Sardinha]** | [20211627]  
 
+### Notes
+
+⚠️ Note: The GloVe embeddings file `glove.twitter.27B.100d.txt` must be manually placed in the `Data` folder.  
+The file is not included in this repository due to size limitations (>100MB).  
+Download from: https://nlp.stanford.edu/projects/glove/
