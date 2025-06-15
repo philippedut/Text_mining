@@ -16,13 +16,14 @@ This repository contains the implementation of a Sentiment Analysis project, whe
 
 ## 📂 **Folder Structure**  
 - `report_34.pdf` contains the report written for this project
-- CSV files with the dataset can be found in **Data** folder, while code can be found in the folder **Notbooks**
-- `pred_34.csv` contains the predicted label achieved using the final model
-- `tm_exploratory_34.ipynb` contains all steps taken during EDA
-- `tm_final_34.ipynb` contains the final model tuning and evaluation
-- `tm_tests_01_34.ipynb` contains tests made using frequency based approaches with classic classifiers
-- `tm_tests_02_34.ipynb` contains tests made using LSTM models
-- `tm_tests_04_34.ipynb` contains tests made using Pre-trained Transformer Models (BERT)
+- CSV files with the dataset can be found in **Data** folder
+- **Notbooks** folder contains the following:
+  - `pred_34.csv` contains the predicted label achieved using the final model
+  - `tm_exploratory_34.ipynb` contains all steps taken during EDA
+  - `tm_final_34.ipynb` contains the final model tuning and evaluation
+  - `tm_tests_01_34.ipynb` contains tests made using frequency based approaches with classic classifiers
+  - `tm_tests_02_34.ipynb` contains tests made using LSTM models
+  - `tm_tests_04_34.ipynb` contains tests made using Pre-trained Transformer Models (BERT)
 
 ### Notes
 
