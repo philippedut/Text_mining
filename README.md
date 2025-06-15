@@ -5,14 +5,14 @@ This repository contains the implementation of a Sentiment Analysis project, whe
 ---
 
 ## 🎓 Master’s Program in Data Science & Advanced Analytics  
-**Nova IMS** | March 2025  
-**Course:** Business Cases with Data Science
+**Nova IMS** | Spring Semester 2025  
+**Course:** Text Mining
 
 ## 👥 Team **Group 34**  
+- **[Diogo Duarte]** | [20240525]
 - **[Philippe Dutranoit]** | [20240518]  
-- **[Diogo Duarte]** | [20240525]  
-- **[Rui luz]** | [20211628]  
-- **[Rodrigo Sardinha]** | [20211627]  
+- **[Rodrigo Sardinha]** | [20211627]
+- **[Rui Luz]** | [20211628]   
 
 ### Notes
 
