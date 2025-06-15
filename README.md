@@ -12,7 +12,17 @@ This repository contains the implementation of a Sentiment Analysis project, whe
 - **[Diogo Duarte]** | [20240525]
 - **[Philippe Dutranoit]** | [20240518]  
 - **[Rodrigo Sardinha]** | [20211627]
-- **[Rui Luz]** | [20211628]   
+- **[Rui Luz]** | [20211628]
+
+## 📂 **Folder Structure**  
+- CSV files with the dataset can be found in **Data** folder, while code can be found in the folder **Notbooks**
+- `pred_34.csv` contains the predicted label achieved using the final model
+- `report_34.pdf` contains the report written for this project
+- `tm_exploratory_34.ipynb` contains all steps taken during EDA
+- `tm_final_34.ipynb` contains the final model tuning and evaluation
+- `tm_tests_01_34.ipynb` contains tests made using frequency based approaches with classic classifiers
+- `tm_tests_02_34.ipynb` contains tests made using LSTM models
+- `tm_tests_04_34.ipynb` contains tests made using Pre-trained Transformer Models (BERT)
 
 ### Notes
 
